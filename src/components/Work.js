@@ -46,7 +46,7 @@ const Work = () => {
               }}
               className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
             >
-              <span className="font-bold text-pink-600 text-3xl mt-32">
+              <span className="font-bold text-white text-3xl mt-32">
                 Beach Website
               </span>
             </div>
@@ -80,7 +80,7 @@ const Work = () => {
               }}
               className=" group container rounded-md flex justify-center items-center mx-auto content-div"
             >
-              <span className="font-bold text-pink-600 text-3xl mt-28">
+              <span className="font-bold text-white text-3xl mt-28">
                 DisneyClone
               </span>
             </div>
