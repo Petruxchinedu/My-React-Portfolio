@@ -46,8 +46,8 @@ const Work = () => {
               }}
               className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
             >
-              <span className="font-bold text-black text-3xl mt-32">
-                BeachWebsite
+              <span className="font-bold text-pink-600 text-3xl mt-32">
+                Beach Website
               </span>
             </div>
           </a>
@@ -63,8 +63,8 @@ const Work = () => {
               }}
               className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
             >
-              <span className="font-bold text-black text-3xl mt-32">
-                FooWebsite
+              <span className="font-bold text-pink-600 text-3xl mt-32">
+                Food Website
               </span>
             </div>
           </a>
@@ -78,7 +78,7 @@ const Work = () => {
                 backgroundImage: `url(${DisneyClone})`,
                 height: "180px",
               }}
-              className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+              className=" group container rounded-md flex justify-center items-center mx-auto content-div"
             >
               <span className="font-bold text-pink-600 text-3xl mt-28">
                 DisneyClone
