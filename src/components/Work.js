@@ -27,7 +27,7 @@ const Work = () => {
                 backgroundImage: `url(${Myportfolio})`,
                 height: "180px",
               }}
-              className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+              className="shadow-lg group container rounded-md flex justify-center items-center mx-auto content-div"
             >
               <span className="font-bold text-pink-600 text-3xl mt-32">
                 My Portfolio
