@@ -13,7 +13,11 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
       <div>
+<<<<<<< HEAD
         <h1 className=' font-bold text-4xl text-pink-600'>Peter Igbo</h1>
+=======
+        <h1 className=' font-bold text-4xl text-pink-600'>Devtrux</h1>
+>>>>>>> e49ccf0947f4e551c65607c9918edf0794acc49f
       </div>
       <div>
         <ul className='hidden md:flex'>

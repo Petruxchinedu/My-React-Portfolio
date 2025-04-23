@@ -31,8 +31,7 @@ const Work = () => {
             >
               <span className="font-bold text-pink-600 text-3xl mt-32">
                 Dry Cleaning
-              </span>
-            </div>
+ </div>
           </a>
           <a
             href="https://beach-travelling-website.vercel.app/"
